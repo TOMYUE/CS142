@@ -5,4 +5,4 @@ This doc will share some realted resources for web application programming, main
 ## Related resources
 
 ## Projects 
-- [proj1]()
+- [proj1](https://github.com/TOMYUE/CS142/tree/main/project1)
